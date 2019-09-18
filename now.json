@@ -1,6 +1,7 @@
 {
   "builds": [
     {
+      "src": "lib/main_publish.dart",
       "use": "now-flutter-web"
     }
   ]
